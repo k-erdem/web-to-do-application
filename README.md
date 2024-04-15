@@ -25,6 +25,8 @@ Allows users to delightfully create, read, update, and delete tasks.
 
 - **Enhance individual to-do items with due date and assignee features**: Provide users with more customization options for their tasks, improving task management efficiency.
 
+- **Deploy the application to the cloud**: Allow users to use the application from anywhere, without needing a running local server. 
+
 ## Installation
 
 1. Clone the repository:
