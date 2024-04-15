@@ -3,6 +3,7 @@
 _A small but mighty web-based To-Do List application._
 
 Built using PostgreSQL, Express, React, and Node.js (PERN stack). 
+
 Allows users to delightfully create, read, update, and delete tasks.
 
 ## Features
@@ -40,7 +41,6 @@ Allows users to delightfully create, read, update, and delete tasks.
     ```
     npm i express pg cors
     ```
-    
 
 4. Set up the PostgreSQL database:
    
@@ -50,15 +50,29 @@ Allows users to delightfully create, read, update, and delete tasks.
 5. Start the development server:
 
     ```
-    npm start
+    nodemon index
     ```
 
-6. Open your web browser and navigate to `http://localhost:3000` to use the application.
+6. Navigate to the front-end directory:
+
+    ```
+    cd web-to-do-application/front-end
+    ```
+    
+7. Start the front-end:
+
+   ```
+   npm run
+   ```
+
+8.  Open your web browser and navigate to `http://localhost:3000` to use the application.
 
 ## Folder Structure
 
 - `front-end`: Contains the React frontend code.
 - `server`: Contains the Node.js backend code.
+
+## Architecture Diagram
 
 ## Usage
 
