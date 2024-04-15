@@ -80,6 +80,15 @@ Allows users to delightfully create, read, update, and delete tasks.
 - To edit a task, click on the edit button next to the task description and edit the description. 
 - To delete a task, click on the delete icon next to the task.
 
+## Next Steps
+
+In the next phase of development, I'll be focusing on the following enhancements:
+
+- **Adding user authentication & log-in/log-out options using JWT**: Implementing user authentication will enhance the security of the application and allow users to securely log in and out. JSON Web Tokens (JWT) will be utilized for managing user sessions and authentication.
+  
+- **Increasing customizations on individual to-do items by adding due date, assignee features**: By adding due date and assignee features to individual to-do items, users will have more flexibility in managing their tasks and organizing their schedules. This will enhance the usability and effectiveness of the application.
+
+
 ## Contributing
 
 Contributions are welcome! Please feel free to submit a pull request.
