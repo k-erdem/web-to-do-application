@@ -80,6 +80,9 @@ Allows users to delightfully create, read, update, and delete tasks.
 
 ## Architecture Diagram
 
+![Architecture Diagram](https://github.com/k-erdem/web-to-do-application/assets/67538883/0c5a97d4-ee91-43c1-829f-f0864634e0ef)
+
+
 ## Usage
 
 - To add a new task, click on the "Add New Item" button and fill in the details.
