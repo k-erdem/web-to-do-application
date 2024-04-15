@@ -4,9 +4,8 @@ This is a simple web-based To-Do list application built using PostgreSQL, Expres
 
 ## Features
 
-- Create new tasks with a title and optional description.
+- Create new tasks with a description.
 - View a list of all tasks.
-- Mark tasks as completed or uncompleted.
 - Edit existing tasks.
 - Delete tasks.
 
@@ -21,20 +20,24 @@ This is a simple web-based To-Do list application built using PostgreSQL, Expres
 1. Clone the repository:
 
     ```
-    git clone <repository-url>
+    git clone web-to-do-application
     ```
 
-2. Navigate to the project directory:
+2. Navigate to the server directory:
 
     ```
-    cd full-stack-todo-list
+    cd web-to-do-application
     ```
 
 3. Install dependencies:
 
     ```
-    npm install
+    npm init
     ```
+    ```
+    npm i express pg cors
+    ```
+    
 
 4. Set up the PostgreSQL database:
    
