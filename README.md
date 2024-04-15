@@ -2,10 +2,11 @@
 
 _A small but mighty web-based To-Do List application._
 
-Built using PostgreSQL, Express, React, and Node.js. 
+Built using PostgreSQL, Express, React, and Node.js. Allows users to delightfully create, read, update, and delete tasks.
 
-Allows users to delightfully create, read, update, and delete tasks.
+I built a simple web app to sharpen my full-stack skills, transitioning to the PostgreSQL, Express.js, React, and Node.js (PERN) stack. This project allowed me to refine my backend API development, coding practices, and front-end skills.
 
+Next, I plan to enhance the project with features like unit testing, authentication methods, and more complex queries, showcasing my full-stack capabilities. I invite you to explore my mini-project and welcome any feedback! For more projects, please visit my GitHub profile at k-erdem.
 
 ## Features
 
