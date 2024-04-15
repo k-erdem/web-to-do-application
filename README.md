@@ -54,14 +54,13 @@ This is a simple web-based To-Do list application built using PostgreSQL, Expres
 
 ## Folder Structure
 
-- `client`: Contains the React frontend code.
+- `front-end`: Contains the React frontend code.
 - `server`: Contains the Node.js backend code.
 
 ## Usage
 
-- To add a new task, click on the "Add Task" button and fill in the details.
-- To mark a task as completed or uncompleted, click on the checkbox next to the task.
-- To edit a task, click on the task title and make the desired changes.
+- To add a new task, click on the "Add New Item" button and fill in the details.
+- To edit a task, click on the edit button next to the task description and edit the description. 
 - To delete a task, click on the delete icon next to the task.
 
 ## Contributing
