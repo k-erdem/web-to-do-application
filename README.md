@@ -6,6 +6,7 @@ Built using PostgreSQL, Express, React, and Node.js.
 
 Allows users to delightfully create, read, update, and delete tasks.
 
+
 ## Features
 
 - Create new tasks with a description.
@@ -27,7 +28,13 @@ Allows users to delightfully create, read, update, and delete tasks.
 
 - **Deploy the application to the cloud**: Allow users to use the application from anywhere, without needing a running local server. 
 
-## Installation
+## App Demo
+
+![tododemo](https://github.com/k-erdem/web-to-do-application/assets/67538883/68aecb8f-6aef-47c5-93c3-b2312e8e6b33)
+
+# Getting Started
+
+To run this project locally, follow the steps below.
 
 1. Clone the repository:
 
@@ -51,29 +58,30 @@ Allows users to delightfully create, read, update, and delete tasks.
     ```
 
 4. Set up the PostgreSQL database:
-   
+
+   - Download/install PostgreSQL if not done before.
    - Create a new PostgreSQL database.
    - Update the database connection details in `server/db.js`.
 
-5. Start the development server:
+6. Run the server:
 
     ```
     nodemon index
     ```
 
-6. Navigate to the front-end directory:
+7. Navigate to the front-end directory:
 
     ```
     cd web-to-do-application/front-end
     ```
     
-7. Start the front-end:
+8. Run the front-end:
 
    ```
-   npm run
+   npm start
    ```
 
-8.  Open your web browser and navigate to `http://localhost:3000` to use the application.
+9.  Open your web browser and navigate to `http://localhost:3000` to use the application.
 
 ## Folder Structure
 
@@ -83,7 +91,6 @@ Allows users to delightfully create, read, update, and delete tasks.
 ## Architecture Diagram
 
 ![Architecture Diagram](https://github.com/k-erdem/web-to-do-application/assets/67538883/0c5a97d4-ee91-43c1-829f-f0864634e0ef)
-
 
 ## Usage
 
