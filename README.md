@@ -19,6 +19,12 @@ Allows users to delightfully create, read, update, and delete tasks.
 - **Backend**: Node.js with Express
 - **Database**: PostgreSQL
 
+## Next on the agenda:
+
+- **Implement user authentication & log-in/log-out with JWT**: Enhance security and user experience by adding authentication features using JSON Web Tokens (JWT).
+
+- **Enhance individual to-do items with due date and assignee features**: Provide users with more customization options for their tasks, improving task management efficiency.
+
 ## Installation
 
 1. Clone the repository:
@@ -79,15 +85,6 @@ Allows users to delightfully create, read, update, and delete tasks.
 - To add a new task, click on the "Add New Item" button and fill in the details.
 - To edit a task, click on the edit button next to the task description and edit the description. 
 - To delete a task, click on the delete icon next to the task.
-
-## Next Steps
-
-In the next phase of development, I'll be focusing on the following enhancements:
-
-- **Adding user authentication & log-in/log-out options using JWT**: Implementing user authentication will enhance the security of the application and allow users to securely log in and out. JSON Web Tokens (JWT) will be utilized for managing user sessions and authentication.
-  
-- **Increasing customizations on individual to-do items by adding due date, assignee features**: By adding due date and assignee features to individual to-do items, users will have more flexibility in managing their tasks and organizing their schedules. This will enhance the usability and effectiveness of the application.
-
 
 ## Contributing
 
