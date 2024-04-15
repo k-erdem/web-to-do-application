@@ -1,4 +1,4 @@
-# Web-Based To-Do List App 🚀
+# Web-Based To-Do List App 🚀 ✅
 
 _A small but mighty web-based To-Do List application._
 
