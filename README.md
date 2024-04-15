@@ -19,7 +19,7 @@ Allows users to delightfully create, read, update, and delete tasks.
 - **Backend**: Node.js with Express
 - **Database**: PostgreSQL
 
-## Next on the agenda:
+## Next on the Agenda: 🔍
 
 - **Implement user authentication & log-in/log-out with JWT**: Enhance security and user experience by adding authentication features using JSON Web Tokens (JWT).
 
