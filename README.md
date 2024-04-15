@@ -2,7 +2,7 @@
 
 _A small but mighty web-based To-Do List application._
 
-Built using PostgreSQL, Express, React, and Node.js (PERN stack). 
+Built using PostgreSQL, Express, React, and Node.js. 
 
 Allows users to delightfully create, read, update, and delete tasks.
 
