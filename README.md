@@ -14,7 +14,7 @@ Allows users to delightfully create, read, update, and delete tasks.
 
 ## Technologies Used
 
-- **Frontend**: React
+- **Frontend**: React, Bootstrap
 - **Backend**: Node.js with Express
 - **Database**: PostgreSQL
 
