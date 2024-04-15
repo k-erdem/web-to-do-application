@@ -1,4 +1,4 @@
-# Full-Stack To-Do List
+# Web-Based To-Do List App 🚀
 
 _A small but mighty web-based To-Do List application._
 
